@@ -1,0 +1,3 @@
+@@||mask.icloud.com^$important
+@@||mask-api.icloud.com^$important
+@@||mask-h2.icloud.com^$important
